@@ -1,0 +1,3 @@
+<?php
+$nombre = "variable string";
+?>
